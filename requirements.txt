@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+pretty_midi
+music21
+librosa
+pyyaml
+jupyter
+pytest
